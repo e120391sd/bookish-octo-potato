@@ -3,7 +3,7 @@
 
     if (window.DeltaLoader) return;
 
-    const BASE_URL = "https://985x1x-pixel.github.io/Delta-s-Ui";
+    const BASE_URL = "https://github.com/e120391sd/bookish-octo-potato/blob/main";
 
     const SCRIPTS = [
         "config.js",
