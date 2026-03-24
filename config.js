@@ -17,7 +17,7 @@
     // ==========================================
 
     const VERSION = "2.0.0";
-    const ASSET_VERSION = "8829640";https:
+    const ASSET_VERSION = "8829640";
     const ASSET_BASE = "https://raw.githubusercontent.com/e120391sd/bookish-octo-potato/main/work%20in%20progress/";
 
     // ==========================================
