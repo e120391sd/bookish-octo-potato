@@ -3,7 +3,7 @@
 
     if (window.DeltaLoader) return;
 
-    const BASE_URL = "https://github.com/e120391sd/bookish-octo-potato/tree/main";
+    const BASE_URL = "https://raw.githubusercontent.com/e120391sd/bookish-octo-potato/main";
 
     const SCRIPTS = [
         "config.js",
